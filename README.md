@@ -20,13 +20,13 @@ SemaLingua sits within a broader communication optimization stack:
 ```
 Raw conversation / semantic text
         ↓
-  SemaLingua / SemaGlyph   — human-readable, noise-reduced, signal-preserving
+  SemaLingua   — human-readable, noise-reduced, signal-preserving
         ↓
-  LumaGlyph (planned)      — Zen pictographical state notation, philosophical/artistic
-                             see: NCL_LumaGlyph
+  SemaGlyph    — higher compression, structured crystal format
+                 see: NCL_SemaGlyph
 ```
 
-SemaGlyph transmits *meaning*. LumaGlyph transmits *state/presence*. They are siblings, not a hierarchy.
+LumaGlyph ([NCL_LumaGlyph](https://github.com/Stxle2/NCL_LumaGlyph)) is a parallel system — Zen pictographical state notation, philosophical/artistic in nature. It transmits *presence and state*, not compressed meaning.
 
 ## Repo Boundary
 
